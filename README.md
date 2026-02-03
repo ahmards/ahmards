@@ -1,7 +1,7 @@
 # 💫 About Me:
 [cite_start]I am a proficient **AI/ML Engineer** specializing in cutting-edge systems including Voice AI automation, Computer Vision, and Retrieval-Augmented Generation (RAG)[cite: 4, 5]. [cite_start]I have proven experience developing and deploying scalable AI solutions, from automated recruitment systems to award-winning multimodal platforms[cite: 6].
 
-- [cite_start]🔭 **Current Role:** AI/ML Engineer @ Edge Computing.io[cite: 11].
+- 🔭 **Current Role:** AI/ML Engineer @ Edge Computing.io[cite: 11].
 - [cite_start]🎓 **Education:** Bachelor of Science in Data Science, Punjab University College of Information Technology[cite: 9].
 - [cite_start]🏆 **Top Award:** 2nd Position in the FCIT PUCON FYP Exhibition for GradeMate[cite: 26].
 - [cite_start]☁️ **Certification:** AWS re/Start program graduate (Cloud Fundamentals)[cite: 27].
