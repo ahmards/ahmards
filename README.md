@@ -18,7 +18,7 @@
 [cite_start]![LLMs](https://img.shields.io/badge/LLMs-black?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-blue?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-orange?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-green?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-red?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-purple?style=flat-square) [cite: 33]
 
 ### ☁️ Cloud & DevOps
-[cite_start]![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) [cite: 32, 34]
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 
 ### 🛠️ Programming & Frameworks
 [cite_start]![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white) [cite: 30, 32]
@@ -30,9 +30,9 @@
 * [cite_start]**Meeting Minutes Generation:** Developed a complete diarization pipeline ensuring accurate record-keeping and retrieval efficiency[cite: 15].
 
 # 🚀 Projects:
-* [cite_start]**GradeMate (Final Year Project):** Developed a Multimodal-RAG exam grading system using LangChain and FastAPI to ensure unbiased evaluation of objective and diagram-based questions[cite: 17, 18, 19, 20].
+* [cite_start]**GradeMate (Final Year Project):** Developed a Multimodal-RAG exam grading system using LangChain and FastAPI to ensure unbiased evaluation of objective and diagram-based questions[cite: 17, 18, 19].
 * [cite_start]**Face Recognition Image Retrieval:** Built an AI-powered retrieval system leveraging FaceNet, RetinaFace, and OpenCV for facial similarity searching[cite: 21, 23, 24].
-* [cite_start]**AI Hackathon:** Developed an MLP Classifier using Scikit-Learn (3rd Position)[cite: 28].
+* [cite_start]**AI Hackathon:** Developed an MLP Classifier using Scikit-Learn for the Decentral Developers AI Hackathon[cite: 28].
 
 # 🏆 Awards & Achievements:
 * [cite_start]🥈 **2nd Position** - FCIT PUCON FYP Exhibition for GradeMate[cite: 26].
